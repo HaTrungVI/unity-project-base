@@ -1,0 +1,32 @@
+{
+  "name": "com.gmx.top.core",
+  "version": "1.0.0",
+  "displayName": "Project Base",
+  "description": "Core framework for Unity mobile game development. Includes UI System (MVP, Animation, Popup Stack), Data System (SO-based persistence, JSON/GZip/AES), Time System (anti-cheat, timers, schedules), Audio System, Asset Management (Addressables), Object Pooling, SO Architecture (Variables, Events, References, Runtime Sets), and GameFlow bootstrap.",
+  "unity": "6000.3",
+  "unityRelease": "9f1",
+  "dependencies": {
+    "com.unity.addressables": "2.8.1",
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "framework",
+    "game",
+    "mobile",
+    "ui",
+    "mvp",
+    "data",
+    "pool",
+    "singleton",
+    "event",
+    "scriptableobject",
+    "addressables",
+    "time",
+    "audio"
+  ],
+  "author": {
+    "name": "HaTrungVI",
+    "url": "https://github.com/HaTrungVI"
+  },
+  "license": "MIT"
+}

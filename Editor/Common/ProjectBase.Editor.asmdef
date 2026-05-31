@@ -1,0 +1,18 @@
+{
+    "name": "ProjectBase.Editor",
+    "rootNamespace": "ProjectBase.Editor",
+    "references": [
+        "ProjectBase.Common"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

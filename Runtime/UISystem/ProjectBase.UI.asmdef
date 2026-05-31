@@ -1,0 +1,23 @@
+{
+    "name": "ProjectBase.UI",
+    "rootNamespace": "ProjectBase.UI",
+    "references": [
+        "UniTask",
+        "UniTask.Addressables",
+        "ProjectBase.Common",
+        "Unity.Addressables",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll",
+        "DOTweenPro.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

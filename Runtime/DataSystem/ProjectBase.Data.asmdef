@@ -1,0 +1,17 @@
+{
+    "name": "ProjectBase.Data",
+    "rootNamespace": "ProjectBase.Data",
+    "references": [
+        "ProjectBase.Common",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

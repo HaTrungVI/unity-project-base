@@ -1,0 +1,21 @@
+{
+    "name": "ProjectBase.Data.Editor",
+    "rootNamespace": "ProjectBase.Data.Editor",
+    "references": [
+        "ProjectBase.Data",
+        "ProjectBase.Common",
+        "ProjectBase.Editor",
+        "UniTask"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
